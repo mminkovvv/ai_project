@@ -1,0 +1,5 @@
+Employees can work remotely up to 3 days per week.
+
+Remote work must be agreed with the employee's manager.
+
+Employees are responsible for having a stable internet connection while working remotely.
